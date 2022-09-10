@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 REPO="https://github.com/Fahmiiiiiiii/UltraBot.git"
-DIR="/root/UltraBot"
+DIR="/root/ultrabot"
 
 spinner(){
     local pid=$!
