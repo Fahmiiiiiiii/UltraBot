@@ -36,7 +36,7 @@ clone_repo(){
             fi
             return
     fi
-    echo -e "Cloning Ultroid ${BRANCH}... "
+    echo -e "Cloning UltraBot ${BRANCH}... "
     git clone -b $BRANCH $REPO $DIR
 }
 
@@ -67,7 +67,7 @@ misc_install(){
                     git pull
             else
                 echo -e "Cloning VCBOT.."
-                git clone https://github.com/Fahmiiiiiiii/VcBot $DIR/vcbot
+                git clone https://github.com/TeamUltroid/VcBot $DIR/vcbot
             fi
             pip3 install pytgcalls>=3.0.0.dev21 && pip3 install av -q --no-binary av
     fi
