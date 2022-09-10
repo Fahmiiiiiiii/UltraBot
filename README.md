@@ -28,7 +28,7 @@
 - [Local Machine](#deploy-locally)
 
 # Documentation 
-[![Documentation](https://img.shields.io/badge/Documentation-UltraBot-blue)](http://UltraBot.tech/)
+[![Documentation](https://img.shields.io/badge/Documentation-UltraBot-blue)](http://ultrabot.tech/)
 
 # Tutorial 
 - Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://www.youtube.com/watch?v=0wAV7pUzhDQ)
@@ -39,7 +39,7 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultrabot.tech)
 
 ## Deploy to Okteto
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
